@@ -1,0 +1,12 @@
+
+
+I. Design
+-----------------
+
+1) Dataset will be from user generated tweets.
+
+2) Will utilize a sigmoid activation function.
+
+3) Model will classify a sentence into 3 categories, based on studies done by various psychologist(need sources), based on usage of I, We, etc.. basically place a sentence into a category of very self-centered, moderate, or not-self-centered, again based on use of personal pronouns.
+
+4) Dataset will be created by importing user tweets into individual .csv files, one for each specific user, the model will use this data for testing and training, and for eventually categorizing the user.
